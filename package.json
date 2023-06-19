@@ -31,7 +31,7 @@
     "eslint-plugin-import": "2.20.2",
     "eslint-plugin-jest": "23.13.2",
     "jest": "24.9.0",
-    "nodemon": "2.0.4"
+    "nodemon": "2.0.22"
   },
   "engines": {
     "node": ">=8.11"
